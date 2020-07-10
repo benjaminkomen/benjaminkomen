@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there
+
+I love to code. I started with PHP a long time ago, learned SQL on a student job, picked up Java on my first real job, learned Go during an assignment and I'm currently exploring Kotlin. I also really like cloud native development. I found out the Google Cloud is great for that, although AWS also has some nice features.
+
+I currently work at [Xebia Software Development](https://software.xebia.com/) which I absolutely love! If you would like to get in touch, you can do so via [Twitter](https://twitter.com/BenjaminKomen).
 
 <!--
 **benjaminkomen/benjaminkomen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

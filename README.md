@@ -1,8 +1,10 @@
 ### Hi there
 
-I love to code. I started with PHP a long time ago, learned SQL on a student job, picked up Java on my first real job, learned Go during an assignment and I'm currently doing most work in Kotlin. I also really like cloud native development. I found out the Google Cloud is great for that, although AWS also has some nice features.
+I love to code. I started with PHP a long time ago, learned SQL on a student job, picked up Java on my first real job, learned Go during an assignment and then worked with Kotlin and Java for several years.
 
-Most recently I worked at [Xebia Software Development](https://software.xebia.com/) which I absolutely loved! If you would like to get in touch, you can do so via [Twitter](https://twitter.com/BenjaminKomen).
+I also really like cloud native development. Initially I started with Google Cloud, and I still love some of their features like Cloud Run and BigQuery, but my focus has shifted mostly to AWS as I got to use it in the last few years and even got some certificates on it.
+
+Most recently I work at [Generac Clean Energy](https://www.generac.com/for-homeowners/clean-energy/clean-energy) which has been a great place to master mobile React Native development and contribute towards the energy transition towards a more sustainable future! If you would like to get in touch, you can do so via [Twitter](https://twitter.com/BenjaminKomen).
 
 <!--
 **benjaminkomen/benjaminkomen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
